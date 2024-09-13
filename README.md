@@ -26,7 +26,7 @@ Este projeto é um **Simulador de Carteira de Investimentos** desenvolvido em Py
     ```
 2. Navegue até o diretório do projeto:
     ```bash
-    cd simulador-carteira-investimentos
+    cd investment-portfolio-simulator
     ```
 3. Instale as dependências necessárias:
     ```bash
