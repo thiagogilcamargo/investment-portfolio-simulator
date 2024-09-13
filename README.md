@@ -75,7 +75,7 @@ simulador-carteira-investimentos/
 ├── simulations.py        # Função para realizar simulação de Monte Carlo
 ├── README.md             # Documentação do projeto
 └── requirements.txt      # Dependências do projeto
-
+```
 ## Melhorias Futuras
 
 - Implementar uma interface gráfica (GUI) para tornar o simulador mais interativo.
